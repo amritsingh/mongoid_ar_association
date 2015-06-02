@@ -28,14 +28,14 @@ include MongoidArAssociation
 
 Create association like:
 * Connection methods from mongoid to mysql:
-    belongs_to_record
-    has_one_record
-    has_many_records
+    - belongs_to_record
+    - has_one_record
+    - has_many_records
 
 * Connection methods from mysql to mongoid:
-    belongs_to_document
-    has_one_document
-    has_many_documents
+    - belongs_to_document
+    - has_one_document
+    - has_many_documents
 
 examples
 ```
